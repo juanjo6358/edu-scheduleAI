@@ -1,0 +1,5 @@
+{
+  "name": "EduSchedule AI",
+  "description": "Generador inteligente de horarios escolares utilizando Google Gemini. Define profesores, asignaturas y deja que la IA organice la semana evitando conflictos.",
+  "requestFramePermissions": []
+}
